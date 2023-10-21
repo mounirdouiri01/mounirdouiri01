@@ -21,10 +21,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abdelhafid-ayaou/">
+  <a href="https://www.linkedin.com/in/mounirdouiri/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto: ayaou.hafid@gmail.com">
+  <a href="mailto: mounir.douiri01@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -67,19 +67,19 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSQL" alt="MSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="" width="40" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/seaborn.png" title="seaborn" alt="" width="40" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/matplotlib.png" title="matplotlib" alt="" width="40" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/plotly.webp" title="plotly" alt="" width="40" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/bokeh.png" title="bokeh" alt="" width="40" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/sklearn.png" title="sklearn" alt="" width="90" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/logo.png" title="PyCaret" alt="" width="90" height="20"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/keras.webp" title="Keras" alt="" width="40" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/tenserflow.png" title="TenserFlow" alt="" width="40" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/pyqt.png" title="PyQt" alt="" width="40" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/Streamlit.png" title="Streamlit" alt="" width="60" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/Docker.webp" title="Docker" alt="" width="60" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/mlflow.png" title="mlflow" alt="" width="90" height="30"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/Evidently%20AI.png" title="Evidently AI" alt="" width="90" height="30"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/seaborn.png" title="seaborn" alt="" width="40" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/matplotlib.png" title="matplotlib" alt="" width="40" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/plotly.webp" title="plotly" alt="" width="40" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/bokeh.png" title="bokeh" alt="" width="40" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/sklearn.png" title="sklearn" alt="" width="90" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/logo.png" title="PyCaret" alt="" width="90" height="20"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/keras.webp" title="Keras" alt="" width="40" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/tenserflow.png" title="TenserFlow" alt="" width="40" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/pyqt.png" title="PyQt" alt="" width="40" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/Streamlit.png" title="Streamlit" alt="" width="60" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/Docker.webp" title="Docker" alt="" width="60" height="40"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/mlflow.png" title="mlflow" alt="" width="90" height="30"/>
+  <img src="https://github.com/mounirdouiri01/mounirdouiri01/tree/main/icons/Evidently%20AI.png" title="Evidently AI" alt="" width="90" height="30"/>
 
 </div>
 
